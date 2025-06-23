@@ -1,0 +1,120 @@
+10012/parle G/21/1232/asd
+10012/parle G/21/1232/asd
+10012/parle G/21/1232/asd
+10012/parle G/21/1232/asd
+12111/Udid/30/100/Grains
+13728/nagli/70/70/Papad
+14500/Basmati-rice/200/90/Grains
+15299/Indrayani-rice/150/80/Grains
+12920/Wheat/30/400/Grains
+13288/Bajra/50/200/Grains
+12728/Ghee/800/80/dairy products
+15628/Pickle/60/100/Preserved food
+14500/Basmati-rice/200/88/Grains
+12111/Udid/30/94/Grains
+12344/Peanuts/20/60/qwe
+12920/Wheat/30/370/Grains
+12345/Marigold/20/80/buiscuit
+12920/Wheat/30/398/Grains
+12111/Udid/30/100/Grains
+13728/nagli/70/70/Papad
+14500/Basmati-rice/200/90/Grains
+15299/Indrayani-rice/150/80/Grains
+12920/Wheat/30/400/Grains
+13288/Bajra/50/200/Grains
+12728/Ghee/800/80/dairy products
+15628/Pickle/60/100/Preserved food
+14526/Salt/20/80/Salt
+14500/Basmati-rice/200/88/Grains
+12111/Udid/30/94/Grains
+12344/Peanuts/20/60/qwe
+12920/Wheat/30/370/Grains
+12345/Marigold/20/80/buiscuit
+14526/Salt/20/75/Salt
+12920/Wheat/30/398/Grains
+14526/Salt/20/78/Salt
+12111/Udid/30/100/Grains
+13728/nagli/70/70/Papad
+14500/Basmati-rice/200/90/Grains
+15299/Indrayani-rice/150/80/Grains
+12920/Wheat/30/400/Grains
+13288/Bajra/50/200/Grains
+12728/Ghee/800/80/dairy products
+15628/Pickle/60/100/Preserved food
+14526/Salt/20/80/Salt
+14500/Basmati-rice/200/88/Grains
+12111/Udid/30/94/Grains
+12344/Peanuts/20/60/qwe
+12920/Wheat/30/370/Grains
+12345/Marigold/20/80/buiscuit
+14526/Salt/20/75/Salt
+12920/Wheat/30/398/Grains
+14526/Salt/20/78/Salt
+12111/Udid/30/100/Grains
+13728/nagli/70/70/Papad
+14500/Basmati-rice/200/90/Grains
+15299/Indrayani-rice/150/80/Grains
+12920/Wheat/30/400/Grains
+13288/Bajra/50/200/Grains
+12728/Ghee/800/80/dairy products
+15628/Pickle/60/100/Preserved food
+14526/Salt/20/80/Salt
+14500/Basmati-rice/200/88/Grains
+12111/Udid/30/94/Grains
+12344/Peanuts/20/60/qwe
+12920/Wheat/30/370/Grains
+12345/Marigold/20/80/buiscuit
+14526/Salt/20/75/Salt
+12920/Wheat/30/398/Grains
+14526/Salt/20/78/Salt
+12111/Udid/30/100/Grains
+13728/nagli/70/70/Papad
+14500/Basmati-rice/200/90/Grains
+15299/Indrayani-rice/150/80/Grains
+12920/Wheat/30/400/Grains
+13288/Bajra/50/200/Grains
+12728/Ghee/800/80/dairy products
+15628/Pickle/60/100/Preserved food
+14526/Salt/20/80/Salt
+14500/Basmati-rice/200/88/Grains
+12111/Udid/30/94/Grains
+12344/Peanuts/20/60/qwe
+12920/Wheat/30/370/Grains
+12345/Marigold/20/80/buiscuit
+14526/Salt/20/75/Salt
+12920/Wheat/30/398/Grains
+14526/Salt/20/78/Salt
+12111/Udid/30/100/Grains
+13728/nagli/70/70/Papad
+14500/Basmati-rice/200/90/Grains
+15299/Indrayani-rice/150/80/Grains
+12920/Wheat/30/400/Grains
+13288/Bajra/50/200/Grains
+12728/Ghee/800/80/dairy products
+15628/Pickle/60/100/Preserved food
+14526/Salt/20/80/Salt
+14500/Basmati-rice/200/88/Grains
+12111/Udid/30/94/Grains
+12344/Peanuts/20/60/qwe
+12920/Wheat/30/370/Grains
+12345/Marigold/20/80/buiscuit
+14526/Salt/20/75/Salt
+12920/Wheat/30/398/Grains
+14526/Salt/20/78/Salt
+12111/Udid/30/100/Grains
+13728/nagli/70/70/Papad
+14500/Basmati-rice/200/90/Grains
+15299/Indrayani-rice/150/80/Grains
+12920/Wheat/30/400/Grains
+13288/Bajra/50/200/Grains
+12728/Ghee/800/80/dairy products
+15628/Pickle/60/100/Preserved food
+14526/Salt/20/80/Salt
+14500/Basmati-rice/200/88/Grains
+12111/Udid/30/94/Grains
+12344/Peanuts/20/60/qwe
+12920/Wheat/30/370/Grains
+12345/Marigold/20/80/buiscuit
+14526/Salt/20/75/Salt
+12920/Wheat/30/398/Grains
+14526/Salt/20/78/Salt

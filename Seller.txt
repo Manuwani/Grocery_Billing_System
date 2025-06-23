@@ -1,0 +1,8 @@
+10010/0000/Ahmed/Male
+11005/1234/Zahid Ali/Male
+11001/1111/Razi/Male
+101/101/aditya/Male
+1/1/manu/Female
+500/500/vidhan/Male
+20/30/lalit/Male
+123/123/manu/Female
